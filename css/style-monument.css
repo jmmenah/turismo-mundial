@@ -1,0 +1,41 @@
+body{
+	background-color: white;
+	font-family: monospace;s
+}
+img.imagen1{
+	padding: 1em;
+	width: 28%;
+	float: left;
+}
+p i {
+	position: relative;
+	left: 30%;
+	font-family: serif;
+	font-size: 0.9em;
+	border: 1px solid black;
+	padding: 5px;
+	background-color: #FCF6D1;
+}
+table, th, tr {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+thead {
+	font-size: 1.2em;
+	background-color: #FCF6D1;
+}
+
+iframe.video1{
+	padding: 1em;
+	width: 28%;
+	float: left;
+	border:0px;
+}
+img.ubicacion{
+	width: 1.5%;
+	padding-left:10px;
+}
+h1 {
+	display: inline;
+}

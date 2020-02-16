@@ -1,0 +1,87 @@
+body {
+	background-image: url(../imagenes/mundo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+#head a {
+	background-color: white;
+	opacity: 85%;
+	position: absolute;
+	left: 33%;
+	top: 5%;
+	font-size: 1.5em;
+	font-family: monospace;
+	color:#000;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+#menu {
+	margin:auto;
+	width:700px;
+	font-family:monospace;
+	position: absolute;
+	top: 18%;
+	left: 30%;
+	opacity: 87%;
+	z-index: 1;
+}
+ul, ol {
+	list-style:none;
+}
+.nav > li {
+	float:left;
+}
+.nav li a {
+	background-color:#979797;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+.nav li a:hover {
+	background-color:#434343;
+}
+.nav li ul {
+	display:none;
+	position: absolute;
+	min-width:180px;
+}
+.nav li:hover > ul {
+	display:block;
+}
+.nav li ul li {
+	position:relative;
+}
+.nav li ul li ul {
+	top: 10px;
+	right: -180px;	
+}
+div.slideshow {
+	width: 60%;
+	height: 50%;
+	position: absolute;
+	top: 30%;
+	left: 20%;
+	opacity: 90%;
+}
+button.display-left{
+	position:absolute;
+	top:50%;
+	left:0%;
+}
+button.display-right{
+	position:absolute;
+	top:50%;
+	right:0%;
+}
+button{
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	padding:7px 10px;
+	font-family: monospace;
+	opacity: 85%;
+	border: 0;
+}

@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/granada/granada.png);
+}
+#head a {
+	left: 37.5%;
+}
+#menu {
+	width:700px;
+	right: 20%;
+}

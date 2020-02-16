@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/jaen/jaen.png);
+}
+#head a {
+	left: 40%;
+}
+#menu {
+	width:500px;
+	right: 30%;
+}
