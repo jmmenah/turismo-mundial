@@ -3,7 +3,7 @@ body{
 	font-family: monospace;s
 }
 img.imagen1{
-	padding: 1em;
+	padding: 1em 2em;
 	width: 28%;
 	float: left;
 }
