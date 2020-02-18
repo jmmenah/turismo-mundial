@@ -65,7 +65,6 @@ ul, ol {
 	top: 30%;
 	left: 20%;
 	opacity: 90%;
-	display: block;
 }
 button.display-left{
 	position:absolute;
@@ -95,9 +94,6 @@ button{
 	position: absolute;
 	right: 1%;
 	top: 1%;
-}
-#contact{
-	display: none;
 }
 form {
 	margin: 0 auto;
