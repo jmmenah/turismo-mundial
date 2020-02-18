@@ -14,8 +14,11 @@
 			<td><a href="http://www.twitter.com"  target="_blank"><img src="imagenes/twitter.png" alt="twitter"></a></td>
 			<td><a href="http://www.facebook.com"  target="_blank"><img src="imagenes/facebook.png" alt="facebook"></a></td>
 		</tr>
+		<tr>
+			<td colspan="3"><button onclick="contacto();">Contacto</button></td>
+		</tr>
 	</table>
-
+	
 	<h1 id="head"><a href="index.html">&nbsp; TURISMO MUNDIAL &nbsp;</a></h1>
 		<div id="menu">
 			<ul class="nav">
@@ -93,7 +96,7 @@
 			</ul>
 		</div>
 
-		<div class="slideshow">
+		<div id="slideshow">
 		  <a href="html/jaen/jaen.html"><img class="slide" src="imagenes/jaen/jaen.png" alt="jaen" style="width: 100%; display: block;"></a>
 		  <a href="html/granada/granada.html"><img class="slide" src="imagenes/granada/granada.png" alt="jaen" style="width: 100%; display: none;"></a>
 		  <a href=""><img class="slide" src="imagenes/madrid/madrid.png" alt="madrid" style="width: 100%; display: none;"></a>
@@ -104,6 +107,28 @@
 		  <button class="display-left" onclick="plusDivs(-1);">&#10094;</button>
 		  <button class="display-right" onclick="plusDivs(1);">&#10095;</button>
 		</div>
+
+		<form id="contact">
+			<ul>
+				<li>
+					<label for="name">Nombre:</label>
+			    	<input type="text" id="name" name="user_name">
+				</li>
+				<li>
+					<label for="mail">Correo electrónico:</label>
+					<input type="email" id="mail" name="user_mail">
+				</li>
+				<li>
+					<label for="msg">Mensaje:</label>
+					<textarea id="msg" name="user_message" value="Cuéntanos tu problema..."></textarea>
+				</li>
+			</ul>
+			<ul>
+				<li class="button">
+					<button type="submit">Enviar</button>
+				</li>
+			</ul>
+		</form>
 
 </body>
 </html>

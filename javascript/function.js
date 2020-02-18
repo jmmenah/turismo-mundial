@@ -15,3 +15,14 @@ function showDivs(n) {
 	  }
 	  x[slideIndex-1].style.display = "block";
 }
+function contacto() {
+  var x = document.getElementById("contact");
+  var y = document.getElementById("slideshow");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
