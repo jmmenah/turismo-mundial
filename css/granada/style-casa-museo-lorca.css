@@ -1,0 +1,9 @@
+#precio {
+	position: relative;
+	left: 10%;
+}
+#horario{
+	position: relative;
+	top: -90px;
+	left: 60%;
+}
