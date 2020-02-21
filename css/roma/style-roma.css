@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/roma/roma.png);
+}
+#head a {
+	left: 40%;
+}
+#menu {
+	width:700px;
+	right: 20%;
+}
