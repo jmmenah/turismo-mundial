@@ -1,7 +1,7 @@
 # turismo-mundial
-La pagina web trata sobre los puntos de interes a la hora de visitar disitintas ciudades del mundo.
+La página web trata sobre los puntos de interés a la hora de visitar disitintas ciudades del mundo.
 
-Los botones de siguiente pagina y anterior pagina estan hechos para que se desplacen en las ciudades de un mismo continente.
+Los botones de página anterior y siguiente página están hechos para que se desplacen en las ciudades de un mismo continente.
 
 Para no hacerla demasiado extensa, he realizado completamente las ciudades de Granada y Jaén, añadiendo todos los lugares del menú.
 Del resto de ciudades he realizado sus paginas iniciales y el resumen de cada una de ellas.
