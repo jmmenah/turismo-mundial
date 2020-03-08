@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/tokio/tokio.png);
+}
+#head a {
+	left: 40%;
+}
+#menu {
+	width:700px;
+	right: 20%;
+}

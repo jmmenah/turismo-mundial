@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/bruselas/bruselas.png);
+}
+#head a {
+	left: 35%;
+}
+#menu {
+	width:700px;
+	right: 20%;
+}

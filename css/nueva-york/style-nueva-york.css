@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/nueva-york/nueva-york.png);
+}
+#head a {
+	left: 34%;
+}
+#menu {
+	width:700px;
+	right: 20%;
+}

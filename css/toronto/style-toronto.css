@@ -1,0 +1,10 @@
+body {
+	background-image: url(../../imagenes/toronto/toronto.png);
+}
+#head a {
+	left: 35%;
+}
+#menu {
+	width:700px;
+	right: 16%;
+}
