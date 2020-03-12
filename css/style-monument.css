@@ -44,3 +44,7 @@ img.ubicacion{
 h1 {
 	display: inline;
 }
+tr.category{
+	font-size: 1.2em;
+	background-color: #FCF6D1;
+}
