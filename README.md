@@ -10,6 +10,8 @@ Los videos he decidido poner solo uno almacenado en la web y el resto añadirlos
 
 La estructura del css, esta realizada de modo que hay plantillas base tanto para la página principal como para las ciudades y los monumentos, y después plantillas para cosas concretas que pueden variar en cada una de esas páginas.
 
+La página no tiene responsive desing.
+
 Para los fondos de las paginas he usado esta aplicación web: https://github.com/anvaka/city-roads
 
 La página web completa se puede ver en: https://jmmenah.github.io/turismo-mundial/
