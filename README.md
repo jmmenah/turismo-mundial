@@ -9,3 +9,5 @@ Del resto de ciudades he realizado sus paginas iniciales y el resumen de cada un
 Los videos he decidido poner solo uno almacenado en la web y el resto añadirlos desde youtube para no hacer muy pesado el proyecto.
 
 La estructura del css, esta realizada de modo que hay plantillas base tanto para la página principal como para las ciudades y los monumentos, y después plantillas para cosas concretas que pueden variar en cada una de esas páginas.
+
+Para los fondos de las paginas he usado esta aplicacion web: https://github.com/anvaka/city-roads
